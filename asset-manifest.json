@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firedbtest/static/css/main.abd64e84.css",
+    "main.js": "/firedbtest/static/js/main.5290131d.js",
+    "static/js/787.8c593bb2.chunk.js": "/firedbtest/static/js/787.8c593bb2.chunk.js",
+    "index.html": "/firedbtest/index.html",
+    "main.abd64e84.css.map": "/firedbtest/static/css/main.abd64e84.css.map",
+    "main.5290131d.js.map": "/firedbtest/static/js/main.5290131d.js.map",
+    "787.8c593bb2.chunk.js.map": "/firedbtest/static/js/787.8c593bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.5290131d.js"
+  ]
+}
