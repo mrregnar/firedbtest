@@ -1,0 +1,21 @@
+[debug] [2022-07-05T21:12:00.962Z] ----------------------------------------------------------------------
+[debug] [2022-07-05T21:12:00.964Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\marc-\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-07-05T21:12:00.965Z] CLI Version:   11.2.0
+[debug] [2022-07-05T21:12:00.965Z] Platform:      win32
+[debug] [2022-07-05T21:12:00.965Z] Node Version:  v16.14.2
+[debug] [2022-07-05T21:12:00.967Z] Time:          Tue Jul 05 2022 15:12:00 GMT-0600 (Mountain Daylight Saving Time)
+[debug] [2022-07-05T21:12:00.967Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-05T21:12:00.980Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-05T21:12:00.980Z] > authorizing via signed-in user (marc.m.ranger@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Projects\Fledge\Research\Firebase\pedrotech\withreact\firedb
+

@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=jCY6DH8F4oc
+
+REACT only, no js with bundles
+
+https://github.com/machadop1407/firebase-react-crud.git
+
+Playlist;
+https://www.youtube.com/playlist?list=PLpPqplz6dKxUfvM22GXRvYA4s-mvJE0XF
